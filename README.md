@@ -1,2 +1,1 @@
-# react_redux
-react &amp; redux project
+# react_app_test_code
